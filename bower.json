@@ -19,12 +19,13 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "1.5.7",
+    "angular": "^1.7.5",
     "angular-local-storage": "^0.2.7",
     "bootstrap": "~3.2.0",
-    "angular-route": "^1.5.5"
+    "angular-route": "^1.7.5",
+    "json-formatter": "^0.7.0"
   },
   "resolutions": {
-    "angular": "1.5.7"
+    "angular": "^1.7.5"
   }
 }
